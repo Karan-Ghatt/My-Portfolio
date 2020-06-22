@@ -110,8 +110,8 @@ $(document).ready(function () {
               info: "My goal in this project was to make an personal site showcasing my life science resume and highlight my technical skills and work experience and in a more visually appealing way than just sending a resume PDF. This project was initiated with an existing Bootstrap theme.  From there, I added a number of custom elements, such as, additional profile picture only appearing on mobile view, animated gear icon above navigation menu for a thematic touch along with a thematic background. I also wanted the page to be fully responsive, which was achieved through the CSS and JS within the bootstrap initial file.",
               summary: "Summary:",
               summaryp: "This was one my first projects after getting started in web design and development. Although already familiar with the concepts and principles of HTML, CSS and JS, it has been some time since I had use those skills, thus this project provided a nice transition into more complex projects and functionality. Through this project I was also able to become familiar with GitHub Pages and hosting.",
-              link: "https://karan-ghatt.github.io/Resume/",
-              github: "https://github.com/Karan-Ghatt/Resume"
+              link: "https://karan-ghatt.github.io/My-Resume/",
+              github: "https://github.com/Karan-Ghatt/My-Resume"
             },
             3: {
               title: "Portfolio",
